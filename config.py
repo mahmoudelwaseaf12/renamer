@@ -10,9 +10,9 @@ BOT_TOKEN = os.environ.get("BOT_TOKEN", "5855550294:AAGUumch418LHmU0luyjVH1a3rI_
 
 FORCE_SUB = os.environ.get("FORCE_SUB", "-1001860403687") 
 
-DB_NAME = os.environ.get("DB_NAME","Cluster0")     
+DB_NAME = os.environ.get("DB_NAME","MahmoudElwaseaf")     
 
-DB_URL = os.environ.get("DB_URL","mongodb+srv://hmoelwaseaf:ghZvWN9xDWkbjizg@cluster0.gqmhx8j.mongodb.net/?retryWrites=true&w=majority")
+DB_URL = os.environ.get("DB_URL","postgres://mahmoudelwaseaf_user:YLKFV4uboH6RT0NikB00v6mLWk0mBXga@dpg-cf2uohp4reb5o46uujvg-a.frankfurt-postgres.render.com/mahmoudelwaseaf")
  
 FLOOD = int(os.environ.get("FLOOD", "10"))
 
